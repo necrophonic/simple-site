@@ -1,0 +1,19 @@
+body {
+  font-family: arial;
+  font-size: 12px;
+}
+
+header {
+  border-bottom: 1px solid #ddd;
+}
+
+#main {
+  padding: 10px 0px 10px 0px;
+}
+
+footer {
+  border-top: 1px solid #ddd;
+  padding-top: 10px;
+  font-size: 0.9em;
+  font-style: italic;
+}
